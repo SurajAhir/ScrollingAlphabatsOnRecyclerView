@@ -1,0 +1,17 @@
+  implementation 'com.github.viethoa:fastscroller:1.2.0'
+    implementation 'com.jakewharton:butterknife:8.5.1'
+    
+    /************************for customize it*******************/
+    
+    
+    Change TextColor: just add <color name="alphabet_text_color">#3F51B5</color> into colors.xml.
+    
+Change TextSelectedColor: just add <color name="alphabet_text_selected_color">#3F51B5</color> into colors.xml.
+
+Change BackgroundColor: just add <color name="alphabet_background_color">#3F51B5</color> into colors.xml.
+
+Change BackgroundBorderColor: just add <color name="alphabet_background_border_color">#3F51B5</color> into colors.xml.
+
+Change FastScrollerAlphabet width: just add <dimen name="alphabet_width">30dp</dimen> into dimens.xml, currently is 30dp.
+
+Change FastScrollerAlphabet Text Size: just add <dimen name="font_medium">15sp</dimen> into dimens.xml, currently is 15sp.
